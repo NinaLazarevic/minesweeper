@@ -1,0 +1,10 @@
+c:\users\nina\documents\visual studio 2015\Projects\OOProjektovanje_Lab3\OOProjektovanje_Lab3\bin\Debug\OOProjektovanje_Lab3.exe.config
+C:\Users\Nina\documents\visual studio 2015\Projects\OOProjektovanje_Lab3\OOProjektovanje_Lab3\bin\Debug\OOProjektovanje_Lab3.exe
+C:\Users\Nina\documents\visual studio 2015\Projects\OOProjektovanje_Lab3\OOProjektovanje_Lab3\bin\Debug\OOProjektovanje_Lab3.pdb
+C:\Users\Nina\documents\visual studio 2015\Projects\OOProjektovanje_Lab3\OOProjektovanje_Lab3\obj\Debug\OOProjektovanje_Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Nina\documents\visual studio 2015\Projects\OOProjektovanje_Lab3\OOProjektovanje_Lab3\obj\Debug\OOProjektovanje_Lab3.Minesweeper.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\OOProjektovanje_Lab3\OOProjektovanje_Lab3\obj\Debug\OOProjektovanje_Lab3.NewGame.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\OOProjektovanje_Lab3\OOProjektovanje_Lab3\obj\Debug\OOProjektovanje_Lab3.Properties.Resources.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\OOProjektovanje_Lab3\OOProjektovanje_Lab3\obj\Debug\OOProjektovanje_Lab3.csproj.GenerateResource.Cache
+C:\Users\Nina\documents\visual studio 2015\Projects\OOProjektovanje_Lab3\OOProjektovanje_Lab3\obj\Debug\OOProjektovanje_Lab3.exe
+C:\Users\Nina\documents\visual studio 2015\Projects\OOProjektovanje_Lab3\OOProjektovanje_Lab3\obj\Debug\OOProjektovanje_Lab3.pdb
